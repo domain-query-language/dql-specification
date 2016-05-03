@@ -1,7 +1,7 @@
 The Collective Code Construction Contract (C4) is an evolution of the github.com [http://help.github.com/send-pull-requests/ Fork + Pull Model], aimed at providing an optimal collaboration model for free software projects. This is revision 1 of the C4 specification.
 
 * Name: rfc.zeromq.org/spec:22/C4.1
-* Editor: Pieter Hintjens <ph@imatix.com>
+* Editor: Colin Lyons <dql@tercet.io>
 * State: stable
 
 ## License
